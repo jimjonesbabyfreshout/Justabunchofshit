@@ -1,11 +1,11 @@
 chardet==3.0.4
-aiohttp==3.8.4
+aiohttp==3.9.2
 beautifulsoup4==4.9.3
 httpx==0.24.1
-Flask==2.1.2
+Flask==2.2.5
 celery==5.2.7
 Flask-Cors==3.0.9
-requests==2.27.0
+requests==2.31.0
 bs4==0.0.1
 cfscrape==2.1.1
 tweepy==4.5.0
@@ -27,7 +27,7 @@ TranslatorX==1.2
 vaderSentiment==3.3.2
 emailrep==0.0.4
 stop_words
-spotipy==2.16.1
+spotipy==2.22.1
 twitch-python
 parse
 browser-cookie3
