@@ -11,3 +11,4 @@ search_engines @ https://github.com/soxoj/Search-Engines-Scraper/archive/refs/he
 tqdm
 google-search-results
 mock
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
