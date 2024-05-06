@@ -34,3 +34,4 @@ browser-cookie3
 google-api-python-client==2.33.0
 python-Levenshtein
 requests_html
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
