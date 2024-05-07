@@ -11,3 +11,4 @@ search_engines @ https://github.com/soxoj/Search-Engines-Scraper/archive/refs/he
 tqdm
 google-search-results
 mock
+jinja2>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
