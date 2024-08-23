@@ -1,11 +1,11 @@
 chardet==3.0.4
-aiohttp==3.8.4
+aiohttp==3.10.2
 beautifulsoup4==4.9.3
 httpx==0.24.1
 Flask==2.1.2
 celery==5.2.7
 Flask-Cors==3.0.9
-requests==2.27.0
+requests==2.32.2
 bs4==0.0.1
 cfscrape==2.1.1
 tweepy==4.5.0
@@ -34,3 +34,5 @@ browser-cookie3
 google-api-python-client==2.33.0
 python-Levenshtein
 requests_html
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
